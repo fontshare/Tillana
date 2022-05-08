@@ -1,0 +1,10 @@
+name:Tillana
+weight:700
+win_a:1160
+win_d:400
+typo_a:1160
+typo_d:-400
+hhea_a:1160
+hhea_d:-400
+hhea_l:100
+typo_l:100
